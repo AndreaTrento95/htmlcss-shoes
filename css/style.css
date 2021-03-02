@@ -50,10 +50,12 @@ ul li{
     vertical-align: 50px;
     font-size: 20px;
     font-weight: 900;
+    
 }
 
 ul li .number:hover{
     box-shadow: 3px 3px 2px black;
+    
 }
 
 
