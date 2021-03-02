@@ -9,13 +9,13 @@ html{
 }
 
 body{
+    position: relative;
     font-family: 'Roboto', sans-serif;
     
    
 }
 
 
-/* HEADER */
 
 nav{
     position: absolute;
@@ -79,7 +79,8 @@ ul li .number:hover{
 }
 
 .first, .second, .third{
-    font-size: 30px;
+    font-size: 23px;
+    font-weight: 900;
 }
 
 .box-upper{
