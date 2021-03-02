@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+html{
+    scroll-behavior:smooth;
+}
+
 body{
     font-family: 'Roboto', sans-serif;
     
@@ -12,10 +16,6 @@ body{
 
 
 /* HEADER */
-header{
-    position: relative;
-    width: 100% ;
-}
 
 nav{
     position: absolute;
